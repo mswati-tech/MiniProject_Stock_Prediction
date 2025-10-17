@@ -42,9 +42,8 @@ Link: https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data
 
 1. Prepare CSV files for each stock with the following columns atleast from 3-January-2000 to 4-January-2005 (five years):
 
-   ```
    Date, Open, High, Low, Close, Volume
-   ```
+
 
 2. Update the `ticker_to_file` mapping if needed.
 
@@ -58,7 +57,6 @@ python miniproject2_code.py
 
 ## Project Structure
 
-```
 ├── miniproject2_code.py               # Main script with training, evaluation, and visualization
 
 ├── data/                 # Folder containing CSV stock data
@@ -68,9 +66,6 @@ python miniproject2_code.py
 ├── utils.py              # Helper functions for preprocessing, sequences, and memory cleanup
 
 ├── README.md
-```
-
----
 
 ## Models
 
