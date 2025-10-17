@@ -85,14 +85,10 @@ python miniproject2_code.py
 
 Example output:
 
-```
 CNN-LSTM evaluation:
 RMSE: 12.3456 | MAE: 8.5678 | R2: 0.89
 Trend classification evaluation:
 Accuracy: 0.78 | F1 Score: 0.81
-```
-
----
 
 ## Visualization
 
