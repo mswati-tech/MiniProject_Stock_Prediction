@@ -108,3 +108,9 @@ Accuracy: 0.78 | F1 Score: 0.81
 Added a **screenshot of the outputs** in the README for better clarity.
 
 ---
+
+## Next Steps
+
+Implement monthly predictions using an LSTM+GRU hybrid model and compare it with LSTM and GRU standalone models.
+
+Implement yearly prediction using a Bistacked LSTM model and compare it with a simplified LSTM model.
